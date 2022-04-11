@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import './index.css'
+import 'C://Users/river/Feedback/Feedback/src/index.css'
 import App from './App'
 
 ReactDOM.render(
